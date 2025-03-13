@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="welcome_text">Привет, дорогой друг</string>
+    <string name="autorization">Авторизация</string>
+    <string name="enter_the_number">Введите номер телефона</string>
+    <string name="next">Далее</string>
+    <string name="sms">Введите код из смс-сообщения</string>
+    <string name="enter">Войти</string>
+    <string name="address_delivery">Адрес доставки</string>
+    <string name="addr">ул. Верхняя Масловка, 27 к1</string>
+    <string name="categories">Категории</string>
+    <string name="profile">Профиль</string>
+    <string name="name">Натали</string>
+    <string name="setting">Настройки</string>
+    <string name="restaurant">Рестораны</string>
+    <string name="basket">Корзина</string>
+    <string name="place_an_order">Оформить Заказ</string>
+    <string name="menu_restaurant">Ресторан</string>
+</resources>
